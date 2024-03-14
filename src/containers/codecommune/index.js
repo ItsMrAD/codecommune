@@ -1,6 +1,7 @@
 import React from 'react';
 import Sidebar from './Sidebar';
 import Main from './Main';
+import './css/index.css';
 
 function index() {
     return (

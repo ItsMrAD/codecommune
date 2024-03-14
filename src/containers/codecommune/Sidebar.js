@@ -3,6 +3,7 @@ import { Public } from '@mui/icons-material';
 import { Stars } from '@mui/icons-material';
 import { Work } from '@mui/icons-material';
 import { Link } from 'react-router-dom';
+import './css/Sidebar.css';
 
 function Sidebar() {
     return (
