@@ -33,11 +33,14 @@ function Main() {
                             <p>Filter</p>
                         </div>
                     </div>
-                    <div className='questions'>
-                        <div className='question'>
-                            <AllQuestions />
-                        </div>
-                    </div>                
+                </div>
+                <div className='questions'>
+                    <div className='question'>
+                        <AllQuestions />
+                        <AllQuestions />
+                        <AllQuestions />
+                        <AllQuestions />
+                    </div>
                 </div>
             </div>
         </div>
