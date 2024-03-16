@@ -22,7 +22,7 @@ function Sidebar() {
                             </div>
                             <div className='tags'>
                                 <p>Tags</p>
-                                <p>Users</p>    
+                                <p>Users</p>
                             </div>
                         </div>
                     </div>
